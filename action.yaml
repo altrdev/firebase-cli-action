@@ -1,4 +1,4 @@
-name: 'Firebase CLI Action'
+name: 'Firebase CLI and ESLint Action'
 author: 'Alessandro Travi'
 description: 'Enable Firebase CLI and ESLint'
 branding:
