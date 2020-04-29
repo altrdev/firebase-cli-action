@@ -1,0 +1,9 @@
+name: 'Firebase CLI Action'
+author: 'Alessandro Travi'
+description: 'Enable Firebase CLI and ESLint'
+branding:
+  icon: 'terminal'
+  color: 'yellow'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
