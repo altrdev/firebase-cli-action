@@ -11,7 +11,7 @@ An example step you can add to your workflow which deploys to Firebase:
 
 ```yml
 - name: Firebase Action
-  uses: altrdev/firebase-cli-action@0.0.1
+  uses: altrdev/firebase-cli-action@v0.0.1
   env:
     PROJECT_ID: "your-project-id"
     FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
