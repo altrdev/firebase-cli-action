@@ -6,8 +6,8 @@ LABEL "maintainer"="Alessandro Travi (altrdev)"
 
 LABEL "com.github.actions.name"="Firebase CLI Action"
 LABEL "com.github.actions.description"="Enable Firebase CLI and ESLint"
-LABEL "com.github.actions.icon"="globe"
-LABEL "com.github.actions.color"="orange"
+LABEL "com.github.actions.icon"="terminal"
+LABEL "com.github.actions.color"="yellow"
 
 LABEL "repository"="https://github.com/altrdev/firebase-cli-action"
 LABEL "homepage"="https://github.com/altrdev/firebase-cli-action"
